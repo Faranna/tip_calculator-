@@ -1,0 +1,12 @@
+.form {
+    border: 1px solid black;
+    margin: 0 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+.btn {
+    text-align: center;
+}
